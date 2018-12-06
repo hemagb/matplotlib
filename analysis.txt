@@ -1,0 +1,3 @@
+trend 1 : urban area has more riders, and fares
+trend 2 : rural area has the least num of drivers and higher price. The cost increases because of less num of drivers
+trend 3 : the surplus amount of drivers decrease the cost of travel
